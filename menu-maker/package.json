@@ -1,0 +1,14 @@
+{
+  "name": "burritoday-menu-maker",
+  "version": "1.0.0",
+  "description": "Burritoday app menu fetcher and parser",
+  "main": "index.js",
+  "author": "Bernardo Rittmeyer",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "normalizr": "^3.2.4"
+  }
+}
